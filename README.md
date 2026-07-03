@@ -1,4 +1,5 @@
 ## House Prices Prediction (Advanced Regression)
+<img width="560" height="280" alt="header" src="https://github.com/user-attachments/assets/1e96f834-c74e-4827-9370-12e7787ec46d" />
 
 ### Objective
 The main goal of this project is to predict the final sales price of residential homes using advanced regression techniques. This notebook covers the end-to-end Machine Learning pipeline: Exploratory Data Analysis (EDA), rigorous data preprocessing, and training a Gradient Boosting model to generate accurate predictions.
@@ -38,4 +39,4 @@ From Kaggle: https://www.kaggle.com/competitions/house-prices-advanced-regressio
 
 *To explore the detailed code, statistical visualizations, and model evaluation metrics, feel free to download the notebook file on this repo, or check out my Kaggle: [https://www.kaggle.com/code/maximendacleu/house-prices-prediction].*
 
-***By: MAxime NDACLEU | BI & Data Analyst***
+***By: Maxime NDACLEU | BI & Data Analyst***
