@@ -37,6 +37,7 @@ From Kaggle: https://www.kaggle.com/competitions/house-prices-advanced-regressio
 * **Mathematical Operations:** `scipy.stats` (`skew`)
 * **Environment:** Kaggle Notebook
 
-*To explore the detailed code, statistical visualizations, and model evaluation metrics, feel free to download the notebook file on this repo, or check out my Kaggle: [https://www.kaggle.com/code/maximendacleu/house-prices-prediction].*
+---
+*To explore the detailed code, feel free to download the notebook file on this repo, or check out my Kaggle: [https://www.kaggle.com/code/maximendacleu/house-prices-prediction].*
 
 ***By: Maxime NDACLEU | BI & Data Analyst***
