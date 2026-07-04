@@ -6,6 +6,7 @@ The main goal of this project is to predict the final sales price of residential
 
 ### Dataset
 From Kaggle: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+You can also find the files in this repo: test.csv, train.csv, and data_description.txt.
 
 ### Notebook Structure & Workflow
 1. **Setup and Data Loading:** Import libraries and load train/test datasets.
