@@ -2,7 +2,7 @@
 <img width="560" height="280" alt="header" src="https://github.com/user-attachments/assets/1e96f834-c74e-4827-9370-12e7787ec46d" />
 
 ### Objective
-The main goal of this project is to predict the final sales price of residential homes using advanced regression techniques. This notebook covers the end-to-end Machine Learning pipeline: Exploratory Data Analysis (EDA), rigorous data preprocessing, and training a Gradient Boosting model to generate accurate predictions.
+The main goal of this project is to predict the final sales price of residential homes using advanced regression techniques. This notebook covers the end-to-end Machine Learning pipeline: Exploratory Data Analysis (EDA), data preprocessing, and training a Gradient Boosting model to generate accurate predictions.
 
 ### Dataset
 From Kaggle: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
