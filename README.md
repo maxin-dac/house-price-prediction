@@ -5,8 +5,7 @@
 The main goal of this project is to predict the final sales price of residential homes using advanced regression techniques. This notebook covers the end-to-end Machine Learning pipeline: Exploratory Data Analysis (EDA), data preprocessing, and training a Gradient Boosting model to generate accurate predictions.
 
 ### Dataset
-From Kaggle: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
-You can also find the files in this repo: test.csv, train.csv, and data_description.txt.
+From [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques). You can also find the files in this repo: test.csv, train.csv, and data_description.txt.
 
 ### Notebook Structure & Workflow
 1. **Setup and Data Loading:** Import libraries and load train/test datasets.
@@ -46,7 +45,7 @@ Based on the analysis, here are practical recommendations:
 - For production use, explore model stacking or ensemble techniques to push performance further.
 
 ## Tech Stack & Libraries
-- **Language**: Python 3.12
+- **Language**: Python
 - **Data Manipulation**: `pandas`, `NumPy`
 - **Visualization**: `Matplotlib`, `Seaborn`
 - **Machine Learning**: `scikit-learn` (`GradientBoostingRegressor`)
@@ -54,6 +53,4 @@ Based on the analysis, here are practical recommendations:
 - **Environment**: Kaggle Notebook
 
 ---
-*To explore the detailed code, feel free to download the notebook file on this repo, or check out my Kaggle: [https://www.kaggle.com/code/maximendacleu/house-prices-prediction].*
-
-***By: Maxime NDACLEU | BI & Data Analyst***
+*To explore the detailed code, feel free to download the notebook file on this repo, or check out my [Kaggle](https://www.kaggle.com/code/maximendacleu/house-prices-prediction).*
