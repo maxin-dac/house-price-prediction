@@ -1,7 +1,5 @@
 # 🏠 House Prices Prediction (Advanced Regression Techniques)
 
-<img width="100%" height="auto" alt="header" src="https://github.com/user-attachments/assets/1e96f834-c74e-4827-9370-12e7787ec46d" />
-
 ## 🎯 Project Objective
 The primary goal of this project is to predict the final sales price (`SalePrice`) of residential homes using advanced regression techniques. This repository contains an end-to-end Machine Learning pipeline that transforms raw housing attributes into highly accurate pricing predictions, uncovering the underlying economic drivers of real estate valuation.
 
