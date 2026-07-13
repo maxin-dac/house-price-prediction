@@ -58,6 +58,6 @@ According to our trained Gradient Boosting model, property value is predominantl
 
 ## 🚀 Explore the Notebook
 Want to see the code behind these insights? 
-* Clone this repos and run the local Jupyter Notebook.
+* Clone this repo and run the local Jupyter Notebook.
 * Download the pdf file on this repo.
 * Check out the interactive, up-to-date version directly on [Kaggle](https://www.kaggle.com/code/maximendacleu/house-prices-prediction).
