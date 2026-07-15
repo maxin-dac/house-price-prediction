@@ -46,7 +46,7 @@ According to our trained Gradient Boosting model, property value is predominantl
 | **9** | `YearRemodAdd` | Remodel date (indicates recent upgrades) | Age / Modernity |
 | **10** | `TotRmsAbvGrd` | Total rooms above grade (excluding bathrooms) | Size / Space |
 
-## 🛠️ Tech Stack & Badges
+## 🛠️ Tech Stack
 
 * **Language:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 * **Environment:** ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
