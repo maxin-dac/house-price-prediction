@@ -1,16 +1,16 @@
-# 🏠 House Prices Prediction (Advanced Regression Techniques)
+# House Prices Prediction (Advanced Regression Techniques)
 
-## 🎯 Project Objective
+## Project Objective
 The primary goal of this project is to predict the final sales price (`SalePrice`) of residential homes using advanced regression techniques. This repository contains an end-to-end Machine Learning pipeline that transforms raw housing attributes into highly accurate pricing predictions, uncovering the underlying economic drivers of real estate valuation.
 
-## 📊 Dataset & Context
+## Dataset & Context
 The dataset is sourced from [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques). 
 For convenience, all essential files are also available directly in this repository:
 * `train.csv` – The training set (1,460 observations with 81 features).
 * `test.csv` – The test set (to generate final predictions).
 * `data_description.txt` – Full text description of each feature.
 
-## ⚙️ Notebook Structure & Workflow
+## Notebook Structure & Workflow
 
 The project is structured into a logical, sequential data science workflow:
 
@@ -24,7 +24,7 @@ The project is structured into a logical, sequential data science workflow:
 5. **Feature Importance Analysis:** Extracting and visualizing the most influential predictors driving house prices.
 6. **Prediction & Submission:** Generating final predictions and formatting the Kaggle submission file.
 
-## 📈 Key Insights & Model Performance
+## Key Insights & Model Performance
 
 ### Model Metrics
 * **Target Variable:** `SalePrice` (Right-skewed, successfully normalized via Log Transformation).
@@ -46,7 +46,7 @@ According to our trained Gradient Boosting model, property value is predominantl
 | **9** | `YearRemodAdd` | Remodel date (indicates recent upgrades) | Age / Modernity |
 | **10** | `TotRmsAbvGrd` | Total rooms above grade (excluding bathrooms) | Size / Space |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 * **Environment:** ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
@@ -56,7 +56,7 @@ According to our trained Gradient Boosting model, property value is predominantl
 
 ---
 
-## 🚀 Explore the Notebook
+## Explore the Notebook
 Want to see the code behind these insights? 
 * Clone this repo and run the local Jupyter Notebook.
 * Download the pdf file on this repo.
